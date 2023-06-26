@@ -27,7 +27,7 @@
 }
 .btn:hover{
     background-color: #1eb2e4;
-    border: 1px solid #c2dde6;
+    border: 1px solid #458da5;
 }
 
 .material-symbols-outlined {
@@ -58,3 +58,36 @@
   .md-18{
     color:#73b5cb;
   }
+  .text-color3{
+    color: rgb(120, 117, 117);
+  }
+  .width-custom3{
+    width: 350px
+  }
+  .md-19{
+    color: rgb(120, 117, 117);
+  }
+  .shadow-button1{
+    box-shadow: 0 2px 4px #829ca6;
+    border: 1px solid #458da5;
+    cursor: pointer;
+  }
+  #first::placeholder{
+    color: rgb(120,117, 117);
+  }
+  #last::placeholder{
+    color: rgb(120,117, 117);
+  }
+  #phone::placeholder{
+    color: rgb(120,117, 117);
+  }
+  #email::placeholder{
+    color: rgb(120,117, 117);
+  }
+  #password::placeholder{
+    color: rgb(120,117, 117);
+  }
+  #confirm::placeholder{
+    color: rgb(120,117, 117);
+  }
+
