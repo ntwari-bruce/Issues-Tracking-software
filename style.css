@@ -174,4 +174,27 @@ tbody td {
   border: 1px solid white;
   box-shadow: 0 2px 4px #e6eef0;
 }
+.transform{
+  transition: transform 0.3s ease;
+}
+.transform:hover{
+  transform: scale(1.1);
+}
+.modal-dialog-custom {
+  width: 320px;
+}
 
+.modal-content-custom {
+  border: 2px solid #fcfeff;
+}
+.text-dialog{
+  color:#767575;
+}
+.dialog-custom-button{
+  background-color: #79b7cb;
+  color: white;
+  border: 1px solid #79b7cb;
+}
+.dialog-custom-buttto:hover{
+  background-color:#458da5;
+}
