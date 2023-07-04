@@ -198,3 +198,61 @@ tbody td {
 .dialog-custom-buttto:hover{
   background-color:#458da5;
 }
+.badge-c{
+  background-color: #a8d2e0;
+  color: rgb(0, 0, 0);
+}
+.truncate2 {
+  max-width: auto; 
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+}
+.custom-2a{
+  width: 800px;
+}
+.text-color6{
+  color: rgb(79, 79, 79);
+}
+.size1{
+  font-size: small;
+}
+.truncate2a{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.table-hover tbody tr:hover {
+  background-color: #c2dde6;
+}
+.cu-width{
+  width: 95.4%;
+}
+.custom-width-s{
+  width: 45%
+}
+.border-charts2{
+  border: 1px solid white;
+  box-shadow: 0 0 5px #cadfe4;
+}
+.border-bottomx{
+  border-bottom: 1px solid #dee8eb;
+}
+.popover-link{
+  text-decoration: none;
+  color: black;
+}
+.popover-link:hover{
+  background-color: #c2dde6;
+}
+.popover{
+  width:150px;
+}
+.size2{
+  font-size: smaller;
+}
+.size3{
+  font-size: small;
+  color: rgb(90, 89, 89);
+}
